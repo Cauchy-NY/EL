@@ -1,0 +1,56 @@
+
+#appdeveloper{
+	-fx-text-fill:white;
+	-fx-font-family:"Arival Black";
+	-fx-font-size:30;
+	-fx-font-weight:bold;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.6) , 5, 0.0 ,0, 1);
+	
+}
+#developer-text {
+   -fx-font-size: 50px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+#developer1-text {
+   -fx-font-size: 30px;
+   -fx-font-family: "Arial blue";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+#support{
+	-fx-font-size:20px;
+    -fx-text-fill: white;
+   -fx-font-family: "Arial Narrow";
+   -fx-font-weight: bold;
+   -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+   -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+#HelpOption{
+	-fx-background-image:url("image/…Ë÷√±≥æ∞.png");
+}
+#HelpOptio{
+	-fx-background-image:url("image/ƒæÕ∑.png");
+}
+
+#music{
+	-fx-color:"green";
+
+	-fx-font-family: "Segoe UI Semibold";
+	-fx-background-image:url("image/words/“Ù¿÷.png");
+	   -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+#audio{
+		-fx-color:"green";
+ 
+	-fx-font-family: "Segoe UI Semibold";
+	-fx-background-image:url("image/words/“Ù–ß.png");
+	   -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+	
+}
+.choice-box{
+	
+	-fx-blend-mode:screen;
+}
+

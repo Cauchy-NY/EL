@@ -1,0 +1,13 @@
+.button{
+	-fx-text-fill:white;
+	-fx-font-family:"Arival Black";
+	-fx-font-size:35;
+	-fx-font-weight:bold;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.6) , 5, 0.0 ,0, 1);
+}
+#s1{
+   -fx-background-image:url("image/ÉúÑÄÄ£Ê½.png");
+}
+#login{
+	-fx-background-image:url("image/µÇÂ¼±³¾°.png")
+}

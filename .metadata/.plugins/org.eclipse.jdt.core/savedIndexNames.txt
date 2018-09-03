@@ -1,0 +1,21 @@
+INDEX VERSION 1.129+E:\java\MyEL\bug.java\.metadata\.plugins\org.eclipse.jdt.core
+158542882.index
+2746374112.index
+1412231311.index
+971357083.index
+1470460415.index
+2932558826.index
+1693828927.index
+1704635697.index
+2251716983.index
+1139737215.index
+890436591.index
+2412399078.index
+1710838353.index
+496869666.index
+1531374363.index
+2158480091.index
+3365277359.index
+3136149628.index
+566201793.index
+3599063643.index

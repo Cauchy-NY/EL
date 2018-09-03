@@ -1,0 +1,33 @@
+#overPane{
+	-fx-background-image:url("image/½áÊø±³¾°1.png");
+}
+#jieshu{
+	-fx-text-fill:white;
+	-fx-font-family:"Arival Black";
+	-fx-font-size:45;
+	-fx-font-weight:bold;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.6) , 5, 0.0 ,0, 1);
+}
+#finalGrades{
+	-fx-text-fill:white;
+	-fx-font-family:"Arival Black";
+	-fx-font-size:25;
+	-fx-font-weight:bold;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.6) , 5, 0.0 ,0, 1);
+}
+#restartGame{
+	-fx-background-color:null;
+	-fx-text-fill:white;
+	-fx-font-family:"Arival Black";
+	-fx-font-size:35;
+	-fx-font-weight:bold;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.6) , 5, 0.0 ,0, 1);
+}
+#back{
+	-fx-background-color:null;
+	-fx-text-fill:white;
+	-fx-font-family:"Arival Black";
+	-fx-font-size:35;
+	-fx-font-weight:bold;
+	-fx-effect:dropshadow(three-pass-box,rgba(0,0,0,0.6) , 5, 0.0 ,0, 1);
+}
